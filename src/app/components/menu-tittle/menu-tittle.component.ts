@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './menu-tittle.component.html',
-  styleUrl: './menu-tittle.component.css'
+  styleUrl: './menu-tittle.component.css'//'./menu-tittle.component.esponsive.css'
 })
 export class MenuTittleComponent {
 
